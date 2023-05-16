@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahar Bazargan</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align=“right” width=400 alt=“coding” src=“https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif” />
+<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/young-woman-writes-code-on-600w-1731157933.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baharbazargan62&label=Profile%20views&color=0e75b6&style=flat" alt="baharbazargan62" /> </p>
 
