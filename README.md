@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahar Bazargan</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align=“right” width=400 alt=“coding” src=“https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FS59bPkT0pqcAAAAC%2Fprogramming.gif&tbnid=SS1GkdNnlHNJqM&vet=12ahUKEwjZmtmGt_n-AhXCmScCHa7UBp0QMygOegUIARC1Ag..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&docid=3g8g6-RBzQfWoM&w=498&h=373&q=animated%20coding%20gif&ved=2ahUKEwjZmtmGt_n-AhXCmScCHa7UBp0QMygOegUIARC1Ag” >
+<img align=“right” width=400 alt=“coding” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fhashnode.com%2F%40avasekar121&psig=AOvVaw0rb86fYIUQ2Ow-o6XAmhBI&ust=1684313017529000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiunYu5-f4CFQAAAAAdAAAAABAF” >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baharbazargan62&label=Profile%20views&color=0e75b6&style=flat" alt="baharbazargan62" /> </p>
 
