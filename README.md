@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baharbazargan62&label=Profile%20views&color=0e75b6&style=flat" alt="baharbazargan62" /> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Next .js*
+- 🌱 I’m currently learning **Next .js**
 
 - 💬 Ask me about **javascript**
 
