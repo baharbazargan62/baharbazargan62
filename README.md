@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next .js**,cypress
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **front end**
 
 - 📫 How to reach me **baharbazargan62@gmail.com**
 
