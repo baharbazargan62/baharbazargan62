@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Next .js**,react
+- 🌱 I’m currently learning **Next .js**,cypress
 
 - 💬 Ask me about **javascript**
 
